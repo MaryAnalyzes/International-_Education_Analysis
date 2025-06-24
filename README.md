@@ -29,7 +29,7 @@ Contains all the SQL queries used for data exploration, extraction and visualiza
 ![image alt](https://github.com/MaryAnalyzes/International-_Education_Analysis/blob/main/internationa%20education%20queries.sql)
 
 ## Data Visualization
-This project leverages the powerful visualization capabilities of Power BI ans Excel to transform complex datasets into intuitive, interactive, and easy to understand visual reports
+This project leverages the powerful visualization capabilities of Power BI ans Excel to transform complex datasets into intuitive, interactive, and easy to understand visual reports.
 ![image alt](https://github.com/MaryAnalyzes/International-_Education_Analysis/blob/main/Nigerian%20Students%20Survey.png?raw=true)
 ![image alt](https://github.com/MaryAnalyzes/International-_Education_Analysis/blob/main/intledu.png?raw=true)
 ![image alt](https://github.com/MaryAnalyzes/International-_Education_Analysis/blob/main/intledu2.png?raw=true)
