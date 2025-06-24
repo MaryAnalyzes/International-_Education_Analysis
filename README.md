@@ -25,6 +25,7 @@ With the concerns listed above , there is a pressing need to investigate the roo
 
 ## SQL_queries
 Contains all the SQL queries used for data exploration, extraction and visualization.
+![image alt](https://github.com/MaryAnalyzes/International-_Education_Analysis/blob/main/internationa%20education%20queries.sql)
 
 ## Key Insights
 -It was observed that the destination with the highest choice from respondents according to the survey is the United Kingdom
