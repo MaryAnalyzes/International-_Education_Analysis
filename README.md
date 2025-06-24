@@ -25,8 +25,8 @@ With the concerns listed above , there is a pressing need to investigate the roo
 -To visualize rent, tuition fee, standard of living, and Insurance fee in diﬀerent countries and cities.
 
 ## SQL_queries
-Contains all the SQL queries used for data exploration, extraction and visualization.
-![image alt](https://github.com/MaryAnalyzes/International-_Education_Analysis/blob/main/internationa%20education%20queries.sql)
+![image alt](https://github.com/MaryAnalyzes/International-_Education_Analysis/blob/main/internationa%20education%20queries.sql)Contains all the SQL queries used for data exploration, extraction and visualization.
+
 
 ## Data Visualization
 This project leverages the powerful visualization capabilities of Power BI ans Excel to transform complex datasets into intuitive, interactive, and easy to understand visual reports.
