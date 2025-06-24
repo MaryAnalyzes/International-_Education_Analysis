@@ -7,6 +7,7 @@ This Project analyzes global education data to uncover trends in international s
 -[Introduction](#Introduction)
 -[Objective](#Objective)
 -[SQL_queries](#SQL_queries) 
+-[Data_Visualization](#Data_Visualization)
 -[Insights](#Insights)
 -[Recommendation](#Recommendation)
 
@@ -27,10 +28,11 @@ With the concerns listed above , there is a pressing need to investigate the roo
 Contains all the SQL queries used for data exploration, extraction and visualization.
 ![image alt](https://github.com/MaryAnalyzes/International-_Education_Analysis/blob/main/internationa%20education%20queries.sql)
 
-## Visualization
+## Data Visualization
+This project leverages the powerful visualization capabilities of Power BI ans Excel to transform complex datasets into intuitive, interactive, and easy to understand visual reports
 ![image alt](https://github.com/MaryAnalyzes/International-_Education_Analysis/blob/main/Nigerian%20Students%20Survey.png?raw=true)
 ![image alt](https://github.com/MaryAnalyzes/International-_Education_Analysis/blob/main/intledu.png?raw=true)
-
+![image alt](https://github.com/MaryAnalyzes/International-_Education_Analysis/blob/main/intledu2.png?raw=true)
 
 ## Key Insights
 -It was observed that the destination with the highest choice from respondents according to the survey is the United Kingdom
