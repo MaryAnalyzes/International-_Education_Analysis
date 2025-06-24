@@ -28,6 +28,7 @@ Contains all the SQL queries used for data exploration, extraction and visualiza
 ![image alt](https://github.com/MaryAnalyzes/International-_Education_Analysis/blob/main/internationa%20education%20queries.sql)
 
 ## Visualization
+![image alt](https://github.com/MaryAnalyzes/International-_Education_Analysis/blob/main/Nigerian%20Students%20Survey.png?raw=true)
 ![image alt](https://github.com/MaryAnalyzes/International-_Education_Analysis/blob/main/intledu.png?raw=true)
 
 
